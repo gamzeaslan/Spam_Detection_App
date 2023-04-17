@@ -27,4 +27,4 @@
 ![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/confusion_matrix.png "Confusion Matrix")
 
 # APP
-By using Streamlit, it is estimated whether the sms texts entered by the user are spam or not through the pre-recorded model
+* By using Streamlit, it is estimated whether the sms texts entered by the user are spam or not through the pre-recorded model
