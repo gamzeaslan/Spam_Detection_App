@@ -18,7 +18,7 @@
 
 * I used Word Cloud to visualize the most frequent words in spam messages and non-spam messages
 ![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/spam_wc.png "Spam WordCloud")
-![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/non_spam_wc.png "Non-Spam WordCloud")
+![alt text](https://github.com/gamzeaslan/spam_detection_app/blob/main/non_spam.png "Non-Spam WordCloud")
 
 # Model Building
 * The frequencies of the words were calculated using the CountVectorizer library. The weights of the words were calculated with the TfidfVectorizer
