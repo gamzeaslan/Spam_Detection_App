@@ -14,7 +14,7 @@
 # EDA
 * At this stage, an interactive pie chart was drawn to see the percentages of spam and non-spam messages in the data set.
 ![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/pie.png "Pie Graph")
-* In conclusion, we can say that the dataset contains bias as there is a large difference between the percentages of spam and non-spam messages.
+* In conclusion, we can say that the bias of the data set is high, as there is a large difference between the percentages of spam and non-spam messages.
 
 * I used Word Cloud to visualize the most frequent words in spam messages and non-spam messages
 ![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/spam_wc.png "Spam WordCloud")
