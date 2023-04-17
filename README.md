@@ -28,3 +28,4 @@
 
 # APP
 * By using Streamlit, it is estimated whether the sms texts entered by the user are spam or not through the pre-recorded model
+![alt text](https://github.com/gamzeaslan/spam_detection/blob/main/app.png "App")
